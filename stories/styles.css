@@ -1,0 +1,14 @@
+div {
+    display: block;
+}
+
+.grid {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: 24px;
+}
+
+.grid > div {
+    width: 24px;
+}
