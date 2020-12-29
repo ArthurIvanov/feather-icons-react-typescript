@@ -5,7 +5,7 @@ import { IconProps } from '../types';
 const DownloadCloud: React.FC<IconProps> = (props) => {
     const {
         color = 'currentColor',
-        size,
+        size = 24,
         strokeWidth = 2,
         onClick,
         ...otherProps

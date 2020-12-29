@@ -5,857 +5,576 @@ import Icon from '../packages/feather/dist';
 import './styles.css';
 
 const Icons = () => {
-    const color = 'grey';
+    const color = '#1e1e35';
     return (
-        <div>
-            <div className="grid">
-                <div>
-                    <Icon color={color} name="activity" />
-                </div>
-                <div>
-                    <Icon color={color} name="airplay" />
-                </div>
-                <div>
-                    <Icon color={color} name="alert-circle" />
-                </div>
-                <div>
-                    <Icon color={color} name="alert-octagon" />
-                </div>
-                <div>
-                    <Icon color={color} name="alert-triangle" />
-                </div>
-                <div>
-                    <Icon color={color} name="align-center" />
-                </div>
-                <div>
-                    <Icon color={color} name="align-justify" />
-                </div>
-                <div>
-                    <Icon color={color} name="align-left" />
-                </div>
-                <div>
-                    <Icon color={color} name="align-right" />
-                </div>
-                <div>
-                    <Icon color={color} name="anchor" />
-                </div>
-                <div>
-                    <Icon color={color} name="aperture" />
-                </div>
-                <div>
-                    <Icon color={color} name="archive" />
-                </div>
-                <div>
-                    <Icon color={color} name="arrow-down-circle" />
-                </div>
-                <div>
-                    <Icon color={color} name="arrow-down-left" />
-                </div>
-                <div>
-                    <Icon color={color} name="arrow-down-right" />
-                </div>
-                <div>
-                    <Icon color={color} name="arrow-down" />
-                </div>
-                <div>
-                    <Icon color={color} name="arrow-left-circle" />
-                </div>
-                <div>
-                    <Icon color={color} name="arrow-left" />
-                </div>
-                <div>
-                    <Icon color={color} name="arrow-right-circle" />
-                </div>
-                <div>
-                    <Icon color={color} name="arrow-right" />
-                </div>
-                <div>
-                    <Icon color={color} name="arrow-up-circle" />
-                </div>
-                <div>
-                    <Icon color={color} name="arrow-up-left" />
-                </div>
-                <div>
-                    <Icon color={color} name="arrow-up-right" />
-                </div>
-                <div>
-                    <Icon color={color} name="arrow-up" />
-                </div>
-                <div>
-                    <Icon color={color} name="at-sign" />
-                </div>
-                <div>
-                    <Icon color={color} name="award" />
-                </div>
-                <div>
-                    <Icon color={color} name="bar-chart-2" />
-                </div>
-                <div>
-                    <Icon color={color} name="bar-chart" />
-                </div>
-                <div>
-                    <Icon color={color} name="battery-charging" />
-                </div>
-                <div>
-                    <Icon color={color} name="battery" />
-                </div>
-                <div>
-                    <Icon color={color} name="bell-off" />
-                </div>
-                <div>
-                    <Icon color={color} name="bell" />
-                </div>
-                <div>
-                    <Icon color={color} name="bluetooth" />
-                </div>
-                <div>
-                    <Icon color={color} name="bold" />
-                </div>
-                <div>
-                    <Icon color={color} name="book-open" />
-                </div>
-                <div>
-                    <Icon color={color} name="book" />
-                </div>
-                <div>
-                    <Icon color={color} name="bookmark" />
-                </div>
-                <div>
-                    <Icon color={color} name="box" />
-                </div>
-                <div>
-                    <Icon color={color} name="briefcase" />
-                </div>
-                <div>
-                    <Icon color={color} name="calendar" />
-                </div>
-                <div>
-                    <Icon color={color} name="camera-off" />
-                </div>
-                <div>
-                    <Icon color={color} name="camera" />
-                </div>
-                <div>
-                    <Icon color={color} name="cast" />
-                </div>
-                <div>
-                    <Icon color={color} name="check-circle" />
-                </div>
-                <div>
-                    <Icon color={color} name="check-square" />
-                </div>
-                <div>
-                    <Icon color={color} name="check" />
-                </div>
-                <div>
-                    <Icon color={color} name="chevron-down" />
-                </div>
-                <div>
-                    <Icon color={color} name="chevron-left" />
-                </div>
-                <div>
-                    <Icon color={color} name="chevron-right" />
-                </div>
-                <div>
-                    <Icon color={color} name="chevron-up" />
-                </div>
-                <div>
-                    <Icon color={color} name="chevrons-down" />
-                </div>
-                <div>
-                    <Icon color={color} name="chevrons-left" />
-                </div>
-                <div>
-                    <Icon color={color} name="chevrons-right" />
-                </div>
-                <div>
-                    <Icon color={color} name="chevrons-up" />
-                </div>
-                <div>
-                    <Icon color={color} name="chrome" />
-                </div>
-                <div>
-                    <Icon color={color} name="circle" />
-                </div>
-                <div>
-                    <Icon color={color} name="clipboard" />
-                </div>
-                <div>
-                    <Icon color={color} name="clock" />
-                </div>
-                <div>
-                    <Icon color={color} name="cloud-drizzle" />
-                </div>
-                <div>
-                    <Icon color={color} name="cloud-lightning" />
-                </div>
-                <div>
-                    <Icon color={color} name="cloud-off" />
-                </div>
-                <div>
-                    <Icon color={color} name="cloud-rain" />
-                </div>
-                <div>
-                    <Icon color={color} name="cloud-snow" />
-                </div>
-                <div>
-                    <Icon color={color} name="cloud" />
-                </div>
-                <div>
-                    <Icon color={color} name="code" />
-                </div>
-                <div>
-                    <Icon color={color} name="codepen" />
-                </div>
-                <div>
-                    <Icon color={color} name="codesandbox" />
-                </div>
-                <div>
-                    <Icon color={color} name="coffee" />
-                </div>
-                <div>
-                    <Icon color={color} name="columns" />
-                </div>
-                <div>
-                    <Icon color={color} name="command" />
-                </div>
-                <div>
-                    <Icon color={color} name="compass" />
-                </div>
-                <div>
-                    <Icon color={color} name="copy" />
-                </div>
-                <div>
-                    <Icon color={color} name="corner-down-left" />
-                </div>
-                <div>
-                    <Icon color={color} name="corner-down-right" />
-                </div>
-                <div>
-                    <Icon color={color} name="corner-left-down" />
-                </div>
-                <div>
-                    <Icon color={color} name="corner-left-up" />
-                </div>
-                <div>
-                    <Icon color={color} name="corner-right-down" />
-                </div>
-                <div>
-                    <Icon color={color} name="corner-right-up" />
-                </div>
-                <div>
-                    <Icon color={color} name="corner-up-left" />
-                </div>
-                <div>
-                    <Icon color={color} name="corner-up-right" />
-                </div>
-                <div>
-                    <Icon color={color} name="cpu" />
-                </div>
-                <div>
-                    <Icon color={color} name="credit-card" />
-                </div>
-                <div>
-                    <Icon color={color} name="crop" />
-                </div>
-                <div>
-                    <Icon color={color} name="crosshair" />
-                </div>
-                <div>
-                    <Icon color={color} name="database" />
-                </div>
-                <div>
-                    <Icon color={color} name="delete" />
-                </div>
-                <div>
-                    <Icon color={color} name="disc" />
-                </div>
-                <div>
-                    <Icon color={color} name="dollar-sign" />
-                </div>
-                <div>
-                    <Icon color={color} name="download-cloud" />
-                </div>
-                <div>
-                    <Icon color={color} name="download" />
-                </div>
-                <div>
-                    <Icon color={color} name="droplet" />
-                </div>
-                <div>
-                    <Icon color={color} name="edit-2" />
-                </div>
-                <div>
-                    <Icon color={color} name="edit-3" />
-                </div>
-                <div>
-                    <Icon color={color} name="edit" />
-                </div>
-                <div>
-                    <Icon color={color} name="external-link" />
-                </div>
-                <div>
-                    <Icon color={color} name="eye-off" />
-                </div>
-                <div>
-                    <Icon color={color} name="eye" />
-                </div>
-                <div>
-                    <Icon color={color} name="facebook" />
-                </div>
-                <div>
-                    <Icon color={color} name="fast-forward" />
-                </div>
-                <div>
-                    <Icon color={color} name="feather" />
-                </div>
-                <div>
-                    <Icon color={color} name="figma" />
-                </div>
-                <div>
-                    <Icon color={color} name="file-minus" />
-                </div>
-                <div>
-                    <Icon color={color} name="file-plus" />
-                </div>
-                <div>
-                    <Icon color={color} name="file-text" />
-                </div>
-                <div>
-                    <Icon color={color} name="file" />
-                </div>
-                <div>
-                    <Icon color={color} name="film" />
-                </div>
-                <div>
-                    <Icon color={color} name="filter" />
-                </div>
-                <div>
-                    <Icon color={color} name="flag" />
-                </div>
-                <div>
-                    <Icon color={color} name="folder-minus" />
-                </div>
-                <div>
-                    <Icon color={color} name="folder-plus" />
-                </div>
-                <div>
-                    <Icon color={color} name="folder" />
-                </div>
-                <div>
-                    <Icon color={color} name="framer" />
-                </div>
-                <div>
-                    <Icon color={color} name="frown" />
-                </div>
-                <div>
-                    <Icon color={color} name="gift" />
-                </div>
-                <div>
-                    <Icon color={color} name="git-branch" />
-                </div>
-                <div>
-                    <Icon color={color} name="git-commit" />
-                </div>
-                <div>
-                    <Icon color={color} name="git-merge" />
-                </div>
-                <div>
-                    <Icon color={color} name="git-pull-request" />
-                </div>
-                <div>
-                    <Icon color={color} name="github" />
-                </div>
-                <div>
-                    <Icon color={color} name="gitlab" />
-                </div>
-                <div>
-                    <Icon color={color} name="globe" />
-                </div>
-                <div>
-                    <Icon color={color} name="grid" />
-                </div>
-                <div>
-                    <Icon color={color} name="hard-drive" />
-                </div>
-                <div>
-                    <Icon color={color} name="hash" />
-                </div>
-                <div>
-                    <Icon color={color} name="headphones" />
-                </div>
-                <div>
-                    <Icon color={color} name="heart" />
-                </div>
-                <div>
-                    <Icon color={color} name="help-circle" />
-                </div>
-                <div>
-                    <Icon color={color} name="hexagon" />
-                </div>
-                <div>
-                    <Icon color={color} name="home" />
-                </div>
-                <div>
-                    <Icon color={color} name="image" />
-                </div>
-                <div>
-                    <Icon color={color} name="inbox" />
-                </div>
-                <div>
-                    <Icon color={color} name="info" />
-                </div>
-                <div>
-                    <Icon color={color} name="instagram" />
-                </div>
-                <div>
-                    <Icon color={color} name="italic" />
-                </div>
-                <div>
-                    <Icon color={color} name="key" />
-                </div>
-                <div>
-                    <Icon color={color} name="layers" />
-                </div>
-                <div>
-                    <Icon color={color} name="layout" />
-                </div>
-                <div>
-                    <Icon color={color} name="life-buoy" />
-                </div>
-                <div>
-                    <Icon color={color} name="link-2" />
-                </div>
-                <div>
-                    <Icon color={color} name="link" />
-                </div>
-                <div>
-                    <Icon color={color} name="linkedin" />
-                </div>
-                <div>
-                    <Icon color={color} name="list" />
-                </div>
-                <div>
-                    <Icon color={color} name="loader" />
-                </div>
-                <div>
-                    <Icon color={color} name="lock" />
-                </div>
-                <div>
-                    <Icon color={color} name="log-in" />
-                </div>
-                <div>
-                    <Icon color={color} name="log-out" />
-                </div>
-                <div>
-                    <Icon color={color} name="mail" />
-                </div>
-                <div>
-                    <Icon color={color} name="map-pin" />
-                </div>
-                <div>
-                    <Icon color={color} name="map" />
-                </div>
-                <div>
-                    <Icon color={color} name="maximize-2" />
-                </div>
-                <div>
-                    <Icon color={color} name="maximize" />
-                </div>
-                <div>
-                    <Icon color={color} name="meh" />
-                </div>
-                <div>
-                    <Icon color={color} name="menu" />
-                </div>
-                <div>
-                    <Icon color={color} name="message-circle" />
-                </div>
-                <div>
-                    <Icon color={color} name="message-square" />
-                </div>
-                <div>
-                    <Icon color={color} name="mic-off" />
-                </div>
-                <div>
-                    <Icon color={color} name="mic" />
-                </div>
-                <div>
-                    <Icon color={color} name="minimize-2" />
-                </div>
-                <div>
-                    <Icon color={color} name="minimize" />
-                </div>
-                <div>
-                    <Icon color={color} name="minus-circle" />
-                </div>
-                <div>
-                    <Icon color={color} name="minus-square" />
-                </div>
-                <div>
-                    <Icon color={color} name="minus" />
-                </div>
-                <div>
-                    <Icon color={color} name="monitor" />
-                </div>
-                <div>
-                    <Icon color={color} name="moon" />
-                </div>
-                <div>
-                    <Icon color={color} name="more-horizontal" />
-                </div>
-                <div>
-                    <Icon color={color} name="more-vertical" />
-                </div>
-                <div>
-                    <Icon color={color} name="mouse-pointer" />
-                </div>
-                <div>
-                    <Icon color={color} name="move" />
-                </div>
-                <div>
-                    <Icon color={color} name="music" />
-                </div>
-                <div>
-                    <Icon color={color} name="navigation-2" />
-                </div>
-                <div>
-                    <Icon color={color} name="navigation" />
-                </div>
-                <div>
-                    <Icon color={color} name="octagon" />
-                </div>
-                <div>
-                    <Icon color={color} name="package" />
-                </div>
-                <div>
-                    <Icon color={color} name="paperclip" />
-                </div>
-                <div>
-                    <Icon color={color} name="pause-circle" />
-                </div>
-                <div>
-                    <Icon color={color} name="pause" />
-                </div>
-                <div>
-                    <Icon color={color} name="pen-tool" />
-                </div>
-                <div>
-                    <Icon color={color} name="percent" />
-                </div>
-                <div>
-                    <Icon color={color} name="phone-call" />
-                </div>
-                <div>
-                    <Icon color={color} name="phone-forwarded" />
-                </div>
-                <div>
-                    <Icon color={color} name="phone-incoming" />
-                </div>
-                <div>
-                    <Icon color={color} name="phone-missed" />
-                </div>
-                <div>
-                    <Icon color={color} name="phone-off" />
-                </div>
-                <div>
-                    <Icon color={color} name="phone-outgoing" />
-                </div>
-                <div>
-                    <Icon color={color} name="phone" />
-                </div>
-                <div>
-                    <Icon color={color} name="pie-chart" />
-                </div>
-                <div>
-                    <Icon color={color} name="play-circle" />
-                </div>
-                <div>
-                    <Icon color={color} name="play" />
-                </div>
-                <div>
-                    <Icon color={color} name="plus-circle" />
-                </div>
-                <div>
-                    <Icon color={color} name="plus-square" />
-                </div>
-                <div>
-                    <Icon color={color} name="plus" />
-                </div>
-                <div>
-                    <Icon color={color} name="pocket" />
-                </div>
-                <div>
-                    <Icon color={color} name="power" />
-                </div>
-                <div>
-                    <Icon color={color} name="printer" />
-                </div>
-                <div>
-                    <Icon color={color} name="radio" />
-                </div>
-                <div>
-                    <Icon color={color} name="refresh-ccw" />
-                </div>
-                <div>
-                    <Icon color={color} name="refresh-cw" />
-                </div>
-                <div>
-                    <Icon color={color} name="repeat" />
-                </div>
-                <div>
-                    <Icon color={color} name="rewind" />
-                </div>
-                <div>
-                    <Icon color={color} name="rotate-ccw" />
-                </div>
-                <div>
-                    <Icon color={color} name="rotate-cw" />
-                </div>
-                <div>
-                    <Icon color={color} name="rss" />
-                </div>
-                <div>
-                    <Icon color={color} name="save" />
-                </div>
-                <div>
-                    <Icon color={color} name="scissors" />
-                </div>
-                <div>
-                    <Icon color={color} name="search" />
-                </div>
-                <div>
-                    <Icon color={color} name="send" />
-                </div>
-                <div>
-                    <Icon color={color} name="server" />
-                </div>
-                <div>
-                    <Icon color={color} name="settings" />
-                </div>
-                <div>
-                    <Icon color={color} name="share-2" />
-                </div>
-                <div>
-                    <Icon color={color} name="share" />
-                </div>
-                <div>
-                    <Icon color={color} name="shield-off" />
-                </div>
-                <div>
-                    <Icon color={color} name="shield" />
-                </div>
-                <div>
-                    <Icon color={color} name="shopping-bag" />
-                </div>
-                <div>
-                    <Icon color={color} name="shopping-cart" />
-                </div>
-                <div>
-                    <Icon color={color} name="shuffle" />
-                </div>
-                <div>
-                    <Icon color={color} name="sidebar" />
-                </div>
-                <div>
-                    <Icon color={color} name="skip-back" />
-                </div>
-                <div>
-                    <Icon color={color} name="skip-forward" />
-                </div>
-                <div>
-                    <Icon color={color} name="slack" />
-                </div>
-                <div>
-                    <Icon color={color} name="slash" />
-                </div>
-                <div>
-                    <Icon color={color} name="sliders" />
-                </div>
-                <div>
-                    <Icon color={color} name="smartphone" />
-                </div>
-                <div>
-                    <Icon color={color} name="smile" />
-                </div>
-                <div>
-                    <Icon color={color} name="speaker" />
-                </div>
-                <div>
-                    <Icon color={color} name="square" />
-                </div>
-                <div>
-                    <Icon color={color} name="star" />
-                </div>
-                <div>
-                    <Icon color={color} name="stop-circle" />
-                </div>
-                <div>
-                    <Icon color={color} name="sun" />
-                </div>
-                <div>
-                    <Icon color={color} name="sunrise" />
-                </div>
-                <div>
-                    <Icon color={color} name="sunset" />
-                </div>
-                <div>
-                    <Icon color={color} name="tablet" />
-                </div>
-                <div>
-                    <Icon color={color} name="tag" />
-                </div>
-                <div>
-                    <Icon color={color} name="target" />
-                </div>
-                <div>
-                    <Icon color={color} name="terminal" />
-                </div>
-                <div>
-                    <Icon color={color} name="thermometer" />
-                </div>
-                <div>
-                    <Icon color={color} name="thumbs-down" />
-                </div>
-                <div>
-                    <Icon color={color} name="thumbs-up" />
-                </div>
-                <div>
-                    <Icon color={color} name="toggle-left" />
-                </div>
-                <div>
-                    <Icon color={color} name="toggle-right" />
-                </div>
-                <div>
-                    <Icon color={color} name="tool" />
-                </div>
-                <div>
-                    <Icon color={color} name="trash-2" />
-                </div>
-                <div>
-                    <Icon color={color} name="trash" />
-                </div>
-                <div>
-                    <Icon color={color} name="trello" />
-                </div>
-                <div>
-                    <Icon color={color} name="trending-down" />
-                </div>
-                <div>
-                    <Icon color={color} name="trending-up" />
-                </div>
-                <div>
-                    <Icon color={color} name="triangle" />
-                </div>
-                <div>
-                    <Icon color={color} name="truck" />
-                </div>
-                <div>
-                    <Icon color={color} name="tv" />
-                </div>
-                <div>
-                    <Icon color={color} name="twitch" />
-                </div>
-                <div>
-                    <Icon color={color} name="twitter" />
-                </div>
-                <div>
-                    <Icon color={color} name="type" />
-                </div>
-                <div>
-                    <Icon color={color} name="umbrella" />
-                </div>
-                <div>
-                    <Icon color={color} name="underline" />
-                </div>
-                <div>
-                    <Icon color={color} name="unlock" />
-                </div>
-                <div>
-                    <Icon color={color} name="upload-cloud" />
-                </div>
-                <div>
-                    <Icon color={color} name="upload" />
-                </div>
-                <div>
-                    <Icon color={color} name="user-check" />
-                </div>
-                <div>
-                    <Icon color={color} name="user-minus" />
-                </div>
-                <div>
-                    <Icon color={color} name="user-plus" />
-                </div>
-                <div>
-                    <Icon color={color} name="user-x" />
-                </div>
-                <div>
-                    <Icon color={color} name="user" />
-                </div>
-                <div>
-                    <Icon color={color} name="users" />
-                </div>
-                <div>
-                    <Icon color={color} name="video-off" />
-                </div>
-                <div>
-                    <Icon color={color} name="video" />
-                </div>
-                <div>
-                    <Icon color={color} name="voicemail" />
-                </div>
-                <div>
-                    <Icon color={color} name="volume-1" />
-                </div>
-                <div>
-                    <Icon color={color} name="volume-2" />
-                </div>
-                <div>
-                    <Icon color={color} name="volume-x" />
-                </div>
-                <div>
-                    <Icon color={color} name="volume" />
-                </div>
-                <div>
-                    <Icon color={color} name="watch" />
-                </div>
-                <div>
-                    <Icon color={color} name="wifi-off" />
-                </div>
-                <div>
-                    <Icon color={color} name="wifi" />
-                </div>
-                <div>
-                    <Icon color={color} name="wind" />
-                </div>
-                <div>
-                    <Icon color={color} name="x-circle" />
-                </div>
-                <div>
-                    <Icon color={color} name="x-octagon" />
-                </div>
-                <div>
-                    <Icon color={color} name="x-square" />
-                </div>
-                <div>
-                    <Icon color={color} name="x" />
-                </div>
-                <div>
-                    <Icon color={color} name="youtube" />
-                </div>
-                <div>
-                    <Icon color={color} name="zap-off" />
-                </div>
-                <div>
-                    <Icon color={color} name="zap" />
-                </div>
-                <div>
-                    <Icon color={color} name="zoom-in" />
-                </div>
-                <div>
-                    <Icon color={color} name="zoom-out" />
-                </div>
-            </div>
+        <div className="grid">
+            <Icon
+                name="activity"
+                className="red"
+                onClick={() => console.log('Clicked!')}
+            />
+
+            <Icon color={color} name="airplay" />
+
+            <Icon color={color} name="alert-circle" />
+
+            <Icon color={color} name="alert-octagon" />
+
+            <Icon color={color} name="alert-triangle" />
+
+            <Icon color={color} name="align-center" />
+
+            <Icon color={color} name="align-justify" />
+
+            <Icon color={color} name="align-left" />
+
+            <Icon color={color} name="align-right" />
+
+            <Icon color={color} name="anchor" />
+
+            <Icon color={color} name="aperture" />
+
+            <Icon color={color} name="archive" />
+
+            <Icon color={color} name="arrow-down-circle" />
+
+            <Icon color={color} name="arrow-down-left" />
+
+            <Icon color={color} name="arrow-down-right" />
+
+            <Icon color={color} name="arrow-down" />
+
+            <Icon color={color} name="arrow-left-circle" />
+
+            <Icon color={color} name="arrow-left" />
+
+            <Icon color={color} name="arrow-right-circle" />
+
+            <Icon color={color} name="arrow-right" />
+
+            <Icon color={color} name="arrow-up-circle" />
+
+            <Icon color={color} name="arrow-up-left" />
+
+            <Icon color={color} name="arrow-up-right" />
+
+            <Icon color={color} name="arrow-up" />
+
+            <Icon color={color} name="at-sign" />
+
+            <Icon color={color} name="award" />
+
+            <Icon color={color} name="bar-chart-2" />
+
+            <Icon color={color} name="bar-chart" />
+
+            <Icon color={color} name="battery-charging" />
+
+            <Icon color={color} name="battery" />
+
+            <Icon color={color} name="bell-off" />
+
+            <Icon color={color} name="bell" />
+
+            <Icon color={color} name="bluetooth" />
+
+            <Icon color={color} name="bold" />
+
+            <Icon color={color} name="book-open" />
+
+            <Icon color={color} name="book" />
+
+            <Icon color={color} name="bookmark" />
+
+            <Icon color={color} name="box" />
+
+            <Icon color={color} name="briefcase" />
+
+            <Icon color={color} name="calendar" />
+
+            <Icon color={color} name="camera-off" />
+
+            <Icon color={color} name="camera" />
+
+            <Icon color={color} name="cast" />
+
+            <Icon color={color} name="check-circle" />
+
+            <Icon color={color} name="check-square" />
+
+            <Icon color={color} name="check" />
+
+            <Icon color={color} name="chevron-down" />
+
+            <Icon color={color} name="chevron-left" />
+
+            <Icon color={color} name="chevron-right" />
+
+            <Icon color={color} name="chevron-up" />
+
+            <Icon color={color} name="chevrons-down" />
+
+            <Icon color={color} name="chevrons-left" />
+
+            <Icon color={color} name="chevrons-right" />
+
+            <Icon color={color} name="chevrons-up" />
+
+            <Icon color={color} name="chrome" />
+
+            <Icon color={color} name="circle" />
+
+            <Icon color={color} name="clipboard" />
+
+            <Icon color={color} name="clock" />
+
+            <Icon color={color} name="cloud-drizzle" />
+
+            <Icon color={color} name="cloud-lightning" />
+
+            <Icon color={color} name="cloud-off" />
+
+            <Icon color={color} name="cloud-rain" />
+
+            <Icon color={color} name="cloud-snow" />
+
+            <Icon color={color} name="cloud" />
+
+            <Icon color={color} name="code" />
+
+            <Icon color={color} name="codepen" />
+
+            <Icon color={color} name="codesandbox" />
+
+            <Icon color={color} name="coffee" />
+
+            <Icon color={color} name="columns" />
+
+            <Icon color={color} name="command" />
+
+            <Icon color={color} name="compass" />
+
+            <Icon color={color} name="copy" />
+
+            <Icon color={color} name="corner-down-left" />
+
+            <Icon color={color} name="corner-down-right" />
+
+            <Icon color={color} name="corner-left-down" />
+
+            <Icon color={color} name="corner-left-up" />
+
+            <Icon color={color} name="corner-right-down" />
+
+            <Icon color={color} name="corner-right-up" />
+
+            <Icon color={color} name="corner-up-left" />
+
+            <Icon color={color} name="corner-up-right" />
+
+            <Icon color={color} name="cpu" />
+
+            <Icon color={color} name="credit-card" />
+
+            <Icon color={color} name="crop" />
+
+            <Icon color={color} name="crosshair" />
+
+            <Icon color={color} name="database" />
+
+            <Icon color={color} name="delete" />
+
+            <Icon color={color} name="disc" />
+
+            <Icon color={color} name="dollar-sign" />
+
+            <Icon color={color} name="download-cloud" />
+
+            <Icon color={color} name="download" />
+
+            <Icon color={color} name="droplet" />
+
+            <Icon color={color} name="edit-2" />
+
+            <Icon color={color} name="edit-3" />
+
+            <Icon color={color} name="edit" />
+
+            <Icon color={color} name="external-link" />
+
+            <Icon color={color} name="eye-off" />
+
+            <Icon color={color} name="eye" />
+
+            <Icon color={color} name="facebook" />
+
+            <Icon color={color} name="fast-forward" />
+
+            <Icon color={color} name="feather" />
+
+            <Icon color={color} name="figma" />
+
+            <Icon color={color} name="file-minus" />
+
+            <Icon color={color} name="file-plus" />
+
+            <Icon color={color} name="file-text" />
+
+            <Icon color={color} name="file" />
+
+            <Icon color={color} name="film" />
+
+            <Icon color={color} name="filter" />
+
+            <Icon color={color} name="flag" />
+
+            <Icon color={color} name="folder-minus" />
+
+            <Icon color={color} name="folder-plus" />
+
+            <Icon color={color} name="folder" />
+
+            <Icon color={color} name="framer" />
+
+            <Icon color={color} name="frown" />
+
+            <Icon color={color} name="gift" />
+
+            <Icon color={color} name="git-branch" />
+
+            <Icon color={color} name="git-commit" />
+
+            <Icon color={color} name="git-merge" />
+
+            <Icon color={color} name="git-pull-request" />
+
+            <Icon color={color} name="github" />
+
+            <Icon color={color} name="gitlab" />
+
+            <Icon color={color} name="globe" />
+
+            <Icon color={color} name="grid" />
+
+            <Icon color={color} name="hard-drive" />
+
+            <Icon color={color} name="hash" />
+
+            <Icon color={color} name="headphones" />
+
+            <Icon color={color} name="heart" />
+
+            <Icon color={color} name="help-circle" />
+
+            <Icon color={color} name="hexagon" />
+
+            <Icon color={color} name="home" />
+
+            <Icon color={color} name="image" />
+
+            <Icon color={color} name="inbox" />
+
+            <Icon color={color} name="info" />
+
+            <Icon color={color} name="instagram" />
+
+            <Icon color={color} name="italic" />
+
+            <Icon color={color} name="key" />
+
+            <Icon color={color} name="layers" />
+
+            <Icon color={color} name="layout" />
+
+            <Icon color={color} name="life-buoy" />
+
+            <Icon color={color} name="link-2" />
+
+            <Icon color={color} name="link" />
+
+            <Icon color={color} name="linkedin" />
+
+            <Icon color={color} name="list" />
+
+            <Icon color={color} name="loader" />
+
+            <Icon color={color} name="lock" />
+
+            <Icon color={color} name="log-in" />
+
+            <Icon color={color} name="log-out" />
+
+            <Icon color={color} name="mail" />
+
+            <Icon color={color} name="map-pin" />
+
+            <Icon color={color} name="map" />
+
+            <Icon color={color} name="maximize-2" />
+
+            <Icon color={color} name="maximize" />
+
+            <Icon color={color} name="meh" />
+
+            <Icon color={color} name="menu" />
+
+            <Icon color={color} name="message-circle" />
+
+            <Icon color={color} name="message-square" />
+
+            <Icon color={color} name="mic-off" />
+
+            <Icon color={color} name="mic" />
+
+            <Icon color={color} name="minimize-2" />
+
+            <Icon color={color} name="minimize" />
+
+            <Icon color={color} name="minus-circle" />
+
+            <Icon color={color} name="minus-square" />
+
+            <Icon color={color} name="minus" />
+
+            <Icon color={color} name="monitor" />
+
+            <Icon color={color} name="moon" />
+
+            <Icon color={color} name="more-horizontal" />
+
+            <Icon color={color} name="more-vertical" />
+
+            <Icon color={color} name="mouse-pointer" />
+
+            <Icon color={color} name="move" />
+
+            <Icon color={color} name="music" />
+
+            <Icon color={color} name="navigation-2" />
+
+            <Icon color={color} name="navigation" />
+
+            <Icon color={color} name="octagon" />
+
+            <Icon color={color} name="package" />
+
+            <Icon color={color} name="paperclip" />
+
+            <Icon color={color} name="pause-circle" />
+
+            <Icon color={color} name="pause" />
+
+            <Icon color={color} name="pen-tool" />
+
+            <Icon color={color} name="percent" />
+
+            <Icon color={color} name="phone-call" />
+
+            <Icon color={color} name="phone-forwarded" />
+
+            <Icon color={color} name="phone-incoming" />
+
+            <Icon color={color} name="phone-missed" />
+
+            <Icon color={color} name="phone-off" />
+
+            <Icon color={color} name="phone-outgoing" />
+
+            <Icon color={color} name="phone" />
+
+            <Icon color={color} name="pie-chart" />
+
+            <Icon color={color} name="play-circle" />
+
+            <Icon color={color} name="play" />
+
+            <Icon color={color} name="plus-circle" />
+
+            <Icon color={color} name="plus-square" />
+
+            <Icon color={color} name="plus" />
+
+            <Icon color={color} name="pocket" />
+
+            <Icon color={color} name="power" />
+
+            <Icon color={color} name="printer" />
+
+            <Icon color={color} name="radio" />
+
+            <Icon color={color} name="refresh-ccw" />
+
+            <Icon color={color} name="refresh-cw" />
+
+            <Icon color={color} name="repeat" />
+
+            <Icon color={color} name="rewind" />
+
+            <Icon color={color} name="rotate-ccw" />
+
+            <Icon color={color} name="rotate-cw" />
+
+            <Icon color={color} name="rss" />
+
+            <Icon color={color} name="save" />
+
+            <Icon color={color} name="scissors" />
+
+            <Icon color={color} name="search" />
+
+            <Icon color={color} name="send" />
+
+            <Icon color={color} name="server" />
+
+            <Icon color={color} name="settings" />
+
+            <Icon color={color} name="share-2" />
+
+            <Icon color={color} name="share" />
+
+            <Icon color={color} name="shield-off" />
+
+            <Icon color={color} name="shield" />
+
+            <Icon color={color} name="shopping-bag" />
+
+            <Icon color={color} name="shopping-cart" />
+
+            <Icon color={color} name="shuffle" />
+
+            <Icon color={color} name="sidebar" />
+
+            <Icon color={color} name="skip-back" />
+
+            <Icon color={color} name="skip-forward" />
+
+            <Icon color={color} name="slack" />
+
+            <Icon color={color} name="slash" />
+
+            <Icon color={color} name="sliders" />
+
+            <Icon color={color} name="smartphone" />
+
+            <Icon color={color} name="smile" />
+
+            <Icon color={color} name="speaker" />
+
+            <Icon color={color} name="square" />
+
+            <Icon color={color} name="star" />
+
+            <Icon color={color} name="stop-circle" />
+
+            <Icon color={color} name="sun" />
+
+            <Icon color={color} name="sunrise" />
+
+            <Icon color={color} name="sunset" />
+
+            <Icon color={color} name="tablet" />
+
+            <Icon color={color} name="tag" />
+
+            <Icon color={color} name="target" />
+
+            <Icon color={color} name="terminal" />
+
+            <Icon color={color} name="thermometer" />
+
+            <Icon color={color} name="thumbs-down" />
+
+            <Icon color={color} name="thumbs-up" />
+
+            <Icon color={color} name="toggle-left" />
+
+            <Icon color={color} name="toggle-right" />
+
+            <Icon color={color} name="tool" />
+
+            <Icon color={color} name="trash-2" />
+
+            <Icon color={color} name="trash" />
+
+            <Icon color={color} name="trello" />
+
+            <Icon color={color} name="trending-down" />
+
+            <Icon color={color} name="trending-up" />
+
+            <Icon color={color} name="triangle" />
+
+            <Icon color={color} name="truck" />
+
+            <Icon color={color} name="tv" />
+
+            <Icon color={color} name="twitch" />
+
+            <Icon color={color} name="twitter" />
+
+            <Icon color={color} name="type" />
+
+            <Icon color={color} name="umbrella" />
+
+            <Icon color={color} name="underline" />
+
+            <Icon color={color} name="unlock" />
+
+            <Icon color={color} name="upload-cloud" />
+
+            <Icon color={color} name="upload" />
+
+            <Icon color={color} name="user-check" />
+
+            <Icon color={color} name="user-minus" />
+
+            <Icon color={color} name="user-plus" />
+
+            <Icon color={color} name="user-x" />
+
+            <Icon color={color} name="user" />
+
+            <Icon color={color} name="users" />
+
+            <Icon color={color} name="video-off" />
+
+            <Icon color={color} name="video" />
+
+            <Icon color={color} name="voicemail" />
+
+            <Icon color={color} name="volume-1" />
+
+            <Icon color={color} name="volume-2" />
+
+            <Icon color={color} name="volume-x" />
+
+            <Icon color={color} name="volume" />
+
+            <Icon color={color} name="watch" />
+
+            <Icon color={color} name="wifi-off" />
+
+            <Icon color={color} name="wifi" />
+
+            <Icon color={color} name="wind" />
+
+            <Icon color={color} name="x-circle" />
+
+            <Icon color={color} name="x-octagon" />
+
+            <Icon color={color} name="x-square" />
+
+            <Icon color={color} name="x" />
+
+            <Icon color={color} name="youtube" />
+
+            <Icon color={color} name="zap-off" />
+
+            <Icon color={color} name="zap" />
+
+            <Icon color={color} name="zoom-in" />
+
+            <Icon color={color} name="zoom-out" />
         </div>
     );
 };

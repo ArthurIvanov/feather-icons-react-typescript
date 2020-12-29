@@ -4,7 +4,7 @@ import { IconProps } from '../types';
 const AtSign: React.FC<IconProps> = (props) => {
     const {
         color = 'currentColor',
-        size,
+        size = 24,
         strokeWidth = 2,
         onClick,
         ...otherProps
