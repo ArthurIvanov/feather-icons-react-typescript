@@ -21,12 +21,18 @@
         "sourceMap": true,
         "downlevelIteration": true,
         "skipLibCheck": true,
-        "forceConsistentCasingInFileNames": true,
-        "paths": {
-            "@atlantum/*": ["packages/feather/*"]
-        }
+        "forceConsistentCasingInFileNames": true
     },
     "files": [],
-    "exclude": ["node_modules", "dist", "lib"],
-    "references": [{ "path": "packages/feather" }]
+    "exclude": [
+        "node_modules",
+        "dist",
+        "lib",
+        "__tests__",
+        "**/*.test*",
+        "**/*.spec*",
+        "examples",
+        "stories"
+    ],
+    "references": [{ "path": "./packages/feather" }]
 }

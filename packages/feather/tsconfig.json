@@ -1,10 +1,9 @@
 {
-    "include": ["*.tsx", "*.ts"],
+    "include": ["*.tsx", "*.ts", "./icons"],
     "extends": "../../tsconfig.json",
     "compilerOptions": {
         "outDir": "dist",
         "rootDir": ".",
         "baseUrl": "."
-    },
-    "references": [{ "path": "./icons" }]
+    }
 }
