@@ -3,8 +3,8 @@ import { IconProps } from '../types';
 
 const WifiOff: React.FC<IconProps> = (props) => {
     const {
-        color = 'black',
-        size = 24,
+        color = 'currentColor',
+        size,
         strokeWidth = 2,
         onClick,
         ...otherProps

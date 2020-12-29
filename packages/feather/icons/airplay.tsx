@@ -2,7 +2,13 @@ import * as React from 'react';
 import { IconProps } from '../types';
 
 const Airplay: React.FC<IconProps> = (props) => {
-    const { color = 'black', size = 24, strokeWidth = 2, onClick, ...otherProps } = props;
+    const {
+        color = 'currentColor',
+        size,
+        strokeWidth = 2,
+        onClick,
+        ...otherProps
+    } = props;
     return (
         <svg
             xmlns="http://www.w3.org/2000/svg"

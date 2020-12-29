@@ -3,12 +3,13 @@ import { IconProps } from '../types';
 
 const Triangle: React.FC<IconProps> = (props) => {
     const {
-        color = 'black',
-        size = 24,
+        color = 'currentColor',
+        size,
         strokeWidth = 2,
         onClick,
         ...otherProps
     } = props;
+
     return (
         <svg
             xmlns="http://www.w3.org/2000/svg"

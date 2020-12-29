@@ -4,8 +4,8 @@ import { IconProps } from '../types';
 
 const MessageCircle: React.FC<IconProps> = (props) => {
     const {
-        color = 'black',
-        size = 24,
+        color = 'currentColor',
+        size,
         strokeWidth = 2,
         onClick,
         ...otherProps

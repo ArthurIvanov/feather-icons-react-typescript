@@ -12,3 +12,8 @@ div {
 .grid > div {
     width: 24px;
 }
+
+.red {
+    color: green;
+    width: 48px;
+}
