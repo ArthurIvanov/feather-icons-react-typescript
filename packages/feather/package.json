@@ -1,6 +1,6 @@
 {
     "name": "@atlantum/feather-react-ts",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "feather-react-ts component",
     "main": "dist/index.js",
     "module": "dist/index.js",
