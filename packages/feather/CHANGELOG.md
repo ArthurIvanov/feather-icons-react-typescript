@@ -1,5 +1,11 @@
 # @atlantum/feather-react-ts
 
+## 1.0.2
+
+### Patch Changes
+
+-   bfe9edb: added default size prop
+
 ## 1.0.1
 
 ### Patch Changes
