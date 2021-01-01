@@ -1,5 +1,11 @@
 # @atlantum/feather-react-ts
 
+## 2.0.0
+
+### Major Changes
+
+-   13b6fa5: Changed schema for icons set, reduced bundle size from 1.5mb to 322Kb
+
 ## 1.0.2
 
 ### Patch Changes
