@@ -42,5 +42,3 @@ import Icon from '@atlantum/feather-react-ts'
 ```
 
 ### Enjoy!
-
-made with ❤️ by Arthur Ivanov.
