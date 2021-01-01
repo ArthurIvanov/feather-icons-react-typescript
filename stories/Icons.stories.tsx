@@ -10,8 +10,8 @@ const Icons = () => {
         <div className="grid">
             <Icon
                 name="activity"
-                className="red"
                 onClick={() => console.log('Clicked!')}
+                className="red"
             />
 
             <Icon color={color} name="airplay" />

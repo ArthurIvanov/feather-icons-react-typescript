@@ -1,7 +1,7 @@
 # Feather icons React Typescript
 
 [![npm](https://img.shields.io/npm/v/@atlantum/feather-react-ts.svg?maxAge=2592000)](https://www.npmjs.com/package/@atlantum/feather-react-ts)
-[![downloads](https://img.shields.io/npm/dt/@atlantum/feather-react-ts.svg?maxAge=2592000)](https://www.npmjs.com/package/@atlantum/feather-react-ts)
+[![NPM downloads](https://img.shields.io/npm/dm/@atlantum/feather-react-ts.svg?)](https://www.npmjs.com/package/@atlantum/feather-react-ts.svg?)
 
 <p>Nice set of icons as React components with type checking and auto complete.</p>
 

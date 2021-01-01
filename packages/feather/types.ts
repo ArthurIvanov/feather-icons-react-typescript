@@ -1,7 +1,7 @@
 import { MouseEventHandler } from 'react';
-import icons from './IconsSet';
+import SvgData from './set';
 
-export type IconName = keyof typeof icons;
+export type IconName = keyof typeof SvgData;
 
 export interface IconProps {
     color?: string;
