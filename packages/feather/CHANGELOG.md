@@ -1,5 +1,11 @@
 # @atlantum/feather-react-ts
 
+## 2.0.2
+
+### Patch Changes
+
+-   7fdf809: Fixed link to repo
+
 ## 2.0.1
 
 ### Patch Changes
