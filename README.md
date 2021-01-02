@@ -1,11 +1,18 @@
 # Feather icons React Typescript
 
+<span align="center">
+  <img src="assets/preview.png" alt="atlantum logo" />
+
 [![npm](https://img.shields.io/npm/v/@atlantum/feather-react-ts.svg?maxAge=2592000)](https://www.npmjs.com/package/@atlantum/feather-react-ts)
 [![NPM downloads](https://img.shields.io/npm/dm/@atlantum/feather-react-ts.svg?)](https://www.npmjs.com/package/@atlantum/feather-react-ts.svg?)
+
+</span>
 
 <p>Nice set of icons as React components with type checking and auto complete.</p>
 
 <hr/>
+
+👉 <a href='https://feather-icons-react-ts.netlify.app/'>Link to storybook preview</a>
 
 ### Installation
 
@@ -40,7 +47,5 @@ import Icon from '@atlantum/feather-react-ts'
 // Support onClick event via props
 <Icon name='activity' onClick={() => console.log("Clicked!")} />
 ```
-
-<a href='https://feather-icons-react-ts.netlify.app/'>Link to storybook preview</a>
 
 ### Enjoy!
