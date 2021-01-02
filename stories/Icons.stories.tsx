@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { storiesOf } from '@storybook/react';
-import Icon from '../packages/feather/dist';
+import Icon from '@atlantum/feather-react-ts';
 
 import './styles.css';
 

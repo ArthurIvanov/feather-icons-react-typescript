@@ -26,5 +26,5 @@
     "peerDependencies": {
         "react": ">=16.8.0"
     },
-    "repository": "https://github.com/ArthurIvanov/feather-icons-react-typescript/tree/master/packages/feather-react-ts"
+    "repository": "https://github.com/ArthurIvanov/feather-icons-react-typescript"
 }

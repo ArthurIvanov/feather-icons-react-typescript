@@ -21,7 +21,10 @@
         "sourceMap": true,
         "downlevelIteration": true,
         "skipLibCheck": true,
-        "forceConsistentCasingInFileNames": true
+        "forceConsistentCasingInFileNames": true,
+        "paths": {
+            "@feather-icons-react-typescript/*": ["packages/feather/*"]
+        }
     },
     "files": [],
     "exclude": [
@@ -34,5 +37,5 @@
         "examples",
         "stories"
     ],
-    "references": [{ "path": "./packages/feather" }]
+    "references": [{ "path": "packages/feather" }]
 }
