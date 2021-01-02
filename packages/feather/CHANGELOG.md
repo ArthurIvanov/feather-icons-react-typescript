@@ -1,5 +1,11 @@
 # @atlantum/feather-react-ts
 
+## 2.0.1
+
+### Patch Changes
+
+-   55d849c: Added keywords in package json and fixed link to github repo
+
 ## 2.0.0
 
 ### Major Changes
