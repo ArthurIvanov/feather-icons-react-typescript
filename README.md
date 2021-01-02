@@ -41,4 +41,6 @@ import Icon from '@atlantum/feather-react-ts'
 <Icon name='activity' onClick={() => console.log("Clicked!")} />
 ```
 
+<a href='https://feather-icons-react-ts.netlify.app/'>Link to storybook preview</a>
+
 ### Enjoy!

@@ -6,6 +6,17 @@
     "repository": "https://github.com/ArthurIvanov/feather-icons-react-typescript",
     "author": "Artur Ivanov <arthur.ivanov.art@gmail.com>",
     "license": "MIT",
+    "keywords": [
+        "feather",
+        "icons",
+        "react",
+        "typescript",
+        "svg",
+        "inline",
+        "ui",
+        "library",
+        "feather icons"
+    ],
     "workspaces": [
         "packages/feather"
     ],

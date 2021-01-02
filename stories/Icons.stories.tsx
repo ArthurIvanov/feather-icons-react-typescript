@@ -10,7 +10,7 @@ const Icons = () => {
         <div className="grid">
             <Icon
                 name="activity"
-                onClick={() => console.log('Clicked!')}
+                onClick={() => alert('Clicked!')}
                 className="red"
             />
 
