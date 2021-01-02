@@ -1,11 +1,22 @@
 {
     "name": "@atlantum/feather-react-ts",
     "version": "2.0.0",
-    "description": "feather-react-ts component",
+    "description": "compact set of feather icons for React apps with type checking and auto-complete",
     "main": "dist/index.js",
     "module": "dist/index.js",
     "types": "dist/index.d.ts",
     "license": "MIT",
+    "keywords": [
+        "feather",
+        "icons",
+        "react",
+        "typescript",
+        "svg",
+        "inline",
+        "ui",
+        "library",
+        "feather icons"
+    ],
     "dependencies": {
         "html-react-parser": "^1.1.1"
     },
