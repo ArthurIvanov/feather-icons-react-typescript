@@ -3,8 +3,8 @@
 <span align="center">
   <img src="assets/preview.png" alt="atlantum logo" />
 
-[![npm](https://img.shields.io/npm/v/@atlantum/feather-react-ts.svg?maxAge=2592000)](https://www.npmjs.com/package/@atlantum/feather-react-ts)
-[![NPM downloads](https://img.shields.io/npm/dm/@atlantum/feather-react-ts.svg?)](https://www.npmjs.com/package/@atlantum/feather-react-ts.svg?)
+[![npm](https://img.shields.io/npm/v/@ailibs/feather-react-ts.svg?maxAge=2592000)](https://www.npmjs.com/package/@atlantum/feather-react-ts)
+[![NPM downloads](https://img.shields.io/npm/dm/@ailibs/feather-react-ts.svg?)](https://www.npmjs.com/package/@atlantum/feather-react-ts.svg?)
 
 </span>
 
@@ -17,18 +17,18 @@
 ### Installation
 
 ```bash
-yarn add @atlantum/feather-react-ts
+yarn add @ailibs/feather-react-ts
 
 or
 
-npm install @atlantum/feather-react-ts
+npm install @ailibs/feather-react-ts
 ```
 
 ### Usage
 
 ```jsx
 import React from 'react'
-import Icon from '@atlantum/feather-react-ts'
+import Icon from '@ailibs/feather-react-ts'
 
 // Basic render with default parameters
 // color=black / size=24px / stroke-width=2

@@ -7,18 +7,18 @@
 ### Installation
 
 ```bash
-yarn add @atlantum/feather-react-ts
+yarn add @ailibs/feather-react-ts
 
 or
 
-npm install @atlantum/feather-react-ts
+npm install @ailibs/feather-react-ts
 ```
 
 ### Usage
 
 ```jsx
 import React from 'react'
-import Icon from '@atlantum/feather-react-ts'
+import Icon from '@ailibs/feather-react-ts'
 
 // Basic render with default parameters
 // color=black / size=24px / stroke-width=2
