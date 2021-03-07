@@ -1,6 +1,6 @@
 {
     "name": "@ailibs/feather-react-ts",
-    "version": "2.0.3",
+    "version": "2.0.4",
     "description": "compact set of feather icons for React apps with type checking and auto-complete",
     "main": "dist/index.js",
     "module": "dist/index.js",
