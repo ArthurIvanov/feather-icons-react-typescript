@@ -1,5 +1,11 @@
 # @atlantum/feather-react-ts
 
+## 2.0.3
+
+### Patch Changes
+
+-   d30e0ef: migration to new npm scope
+
 ## 2.0.2
 
 ### Patch Changes
