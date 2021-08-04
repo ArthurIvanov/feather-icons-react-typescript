@@ -12,7 +12,7 @@
 
 <hr/>
 
-👉 <a href='https://feather-icons-react-ts.netlify.app/'>Link to storybook preview</a>
+👉 <a href='https://feather-icons-react-typescript.vercel.app/?path=/story/introduction--introduction'>Link to storybook preview</a>
 
 ### Installation
 
