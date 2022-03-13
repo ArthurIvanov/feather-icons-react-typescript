@@ -30,5 +30,3 @@ export const Icon = ({ name, ...props }: IconComponentProps) => {
         </svg>
     );
 };
-
-export default Icon;

@@ -21,7 +21,7 @@
         "packages/feather"
     ],
     "scripts": {
-        "compile": "tsc --build",
+        "build": "tsc --build",
         "watch": "tsc --build && tsc --watch",
         "storybook": "start-storybook -p 6006",
         "build-storybook": "build-storybook",
