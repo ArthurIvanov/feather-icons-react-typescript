@@ -1,5 +1,11 @@
 # @atlantum/feather-react-ts
 
+## 3.0.3
+
+### Patch Changes
+
+-   0f18d42: minor fix
+
 ## 3.0.2
 
 ### Patch Changes
