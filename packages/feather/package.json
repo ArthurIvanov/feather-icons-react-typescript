@@ -21,10 +21,10 @@
         "html-react-parser": "^1.1.1"
     },
     "devDependencies": {
-        "react": ">=16.8.0"
+        "react": "^17.0.1"
     },
     "peerDependencies": {
         "react": ">=16.8.0"
     },
-    "repository": "https://github.com/ArthurIvanov/feather-icons-react-typescript"
+    "repository": "https://github.com/ArthurIvanov/feather-icons-react-typescript/tree/master/packages/feather"
 }

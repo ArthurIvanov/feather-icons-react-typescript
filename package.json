@@ -26,7 +26,7 @@
         "storybook": "start-storybook -p 6006",
         "build-storybook": "build-storybook",
         "update": "yarn changeset",
-        "release": "yarn compile && yarn changeset publish",
+        "release": "yarn build && yarn changeset publish",
         "monorepo:check": "manypkg check",
         "monorepo:fix": "manypkg fix",
         "clean": "rm -rf node_modules/.cache && rimraf packages/**/**/{tsconfig.tsbuildinfo,lib,dist}"
