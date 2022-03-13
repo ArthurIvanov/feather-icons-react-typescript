@@ -33,7 +33,7 @@
     },
     "dependencies": {
         "@babel/core": "^7.12.10",
-        "@changesets/cli": "^2.11.2",
+        "@changesets/cli": "^2.9.2",
         "@manypkg/cli": "^0.17.0",
         "@storybook/addon-actions": "^6.1.11",
         "@storybook/addon-essentials": "^6.1.11",

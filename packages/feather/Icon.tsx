@@ -11,6 +11,7 @@ export const Icon = ({ name, ...props }: IconComponentProps) => {
         strokeWidth = 2,
         onClick,
         ...otherProps
+
     } = props;
     return (
         <svg
