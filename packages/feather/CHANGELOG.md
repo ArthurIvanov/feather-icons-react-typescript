@@ -1,5 +1,11 @@
 # @atlantum/feather-react-ts
 
+## 3.0.2
+
+### Patch Changes
+
+-   f448694: fixed npm login
+
 ## 3.0.1
 
 ### Patch Changes
