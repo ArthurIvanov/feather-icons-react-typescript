@@ -1,5 +1,11 @@
 # @atlantum/feather-react-ts
 
+## 3.0.0
+
+### Major Changes
+
+-   4f0f067: Changed default export for Icon component
+
 ## 2.0.4
 
 ### Patch Changes
