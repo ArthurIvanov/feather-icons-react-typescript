@@ -1,5 +1,11 @@
 # @atlantum/feather-react-ts
 
+## 3.0.1
+
+### Patch Changes
+
+-   171c9a9: updated import
+
 ## 3.0.0
 
 ### Major Changes
