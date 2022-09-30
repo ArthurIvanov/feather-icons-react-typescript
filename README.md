@@ -1,7 +1,7 @@
 # Feather icons React Typescript
 
 <span align="center">
-  <img src="assets/preview.png" alt="atlantum logo" />
+  <img src="./assets/preview.png" alt="atlantum-logo" />
 
 [![npm](https://img.shields.io/npm/v/@ailibs/feather-react-ts.svg?maxAge=2592000)](https://www.npmjs.com/package/@atlantum/feather-react-ts)
 [![NPM downloads](https://img.shields.io/npm/dm/@ailibs/feather-react-ts.svg?)](https://www.npmjs.com/package/@atlantum/feather-react-ts.svg?)
