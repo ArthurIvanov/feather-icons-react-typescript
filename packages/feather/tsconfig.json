@@ -1,9 +1,14 @@
 {
-    "include": ["*.tsx", "*.ts", "./icons"],
+    "include": [
+        "*.tsx",
+        "*.ts",
+        "./icons"
+    ],
     "extends": "../../tsconfig.json",
     "compilerOptions": {
         "outDir": "dist",
         "rootDir": ".",
-        "baseUrl": "."
+        "baseUrl": ".",
+        "jsx": "react-jsx"
     }
 }
